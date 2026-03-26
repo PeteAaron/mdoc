@@ -1,9 +1,3 @@
-
----
-
-# `MODEL.md`
-
-```md
 # MDOC Document Model (v0.1 Draft)
 
 ## 1. Overview
